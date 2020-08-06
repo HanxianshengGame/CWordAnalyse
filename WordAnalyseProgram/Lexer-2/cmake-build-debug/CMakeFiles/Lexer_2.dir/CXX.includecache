@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+H:/wkC-compiler/Lexer-2/CDEFINE.h
+
+H:/wkC-compiler/Lexer-2/Lexer.h
+vector
+-
+iostream
+-
+fstream
+-
+Token.h
+H:/wkC-compiler/Lexer-2/Token.h
+CDEFINE.h
+H:/wkC-compiler/Lexer-2/CDEFINE.h
+
+H:/wkC-compiler/Lexer-2/Token.h
+string
+-
+CDEFINE.h
+H:/wkC-compiler/Lexer-2/CDEFINE.h
+
+H:/wkC-compiler/Lexer-2/main.cpp
+iostream
+-
+vector
+-
+cstdio
+-
+Lexer.h
+H:/wkC-compiler/Lexer-2/Lexer.h
+
